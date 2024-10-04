@@ -56,7 +56,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "TMEP 2025"
 eventDate: "March, 2025"
-typeoutTextValues: '"", "Season", "Seville", "Germany", "USA"'
+typeoutTextValues: ''
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
