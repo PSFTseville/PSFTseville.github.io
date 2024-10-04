@@ -10,45 +10,43 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
+title: "TMEP 2025"
+email: "admin@psft.eu"
+description: "18th Technical Meeting on Energetic Particles in Magnetic Confinement Systems"
+baseurl: "/"
 url: "https://gdg-x.github.io"
-permalink: "/blog/:title"
+#permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "PSFT"
+organizerAlternateName: "Plasma Science and Fusion Technology"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: ""
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://psft.eu"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, fusion, plasma, magnetic, confinement, particles, technical, meeting, seville, sevilla"
+twitterAccount: "@PSFT__"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: ""
+c4sponsorsUrl: ""
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/team/", text: "Team"}
+# - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -56,28 +54,26 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroTitle: "TMEP 2025"
+eventDate: "March, 2025"
+typeoutTextValues: '"", "Season", "Seville", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About TMEP 2025"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest fusion related event in the country carefully crafted for you by PSFT" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of technical talks"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -90,19 +86,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventLocationName: "Valentín de Madariaga Foundation"
+eventLocationLink: ""
+eventStreetAddress: "P.º de las Delicias, 7, Casco Antiguo"
+eventAddressLocality: "Sevilla"
+eventAddressLocalityRegion: "Sevilla"
+eventPostalCode: "41013"
+eventAddressCountry: "Spain"
+eventStartTime: "2025-03-17T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2025-03-21T20:00"
+eventPlaceCoordinates: "37.3764979, -5.9941233,878"
+mapCenterCoordinates: "37.3764979, -5.9941233,878"
+mapMobileCenterCoordinates: "37.3764979, -5.9941233,878"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -110,14 +106,14 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Valentín de Madariaga Foundation"
+venueFeatures: ["The Valentín de Madariaga Foundation is born in 2003 in memory of D. Valentín Madariaga y Oya"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "tmep2025"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -137,22 +133,23 @@ ticketsOffers:
  -
   name: "Early Bird"
   price: "350"
-  priceCurrency: "UAH"
+  priceCurrency: "EUR"
   ticketsNumber: "150"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: ""
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
+  disabled: true
  -
   name: "Last Chance"
   price: "450"
-  priceCurrency: "UAH"
+  priceCurrency: "EUR"
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: ""
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-01T00:00"
@@ -161,9 +158,9 @@ ticketsOffers:
  -
   name: "Student"
   price: "200"
-  priceCurrency: "UAH"
+  priceCurrency: "EUR"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: ""
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -171,23 +168,20 @@ ticketsOffers:
   validThrough: "2014-10-23T23:59"
   soldOut: true
   soldOutText: "Sold Out"
+  disabled: true
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://twitter.com/intent/user?screen_name=PSFT__", icon: "twitter"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://psft.eu", text: "psft.eu"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:tmep2025@psft.eu", text: "tmep2025@psft.eu"}
  -
   title: "FAQ"
   links:
@@ -203,7 +197,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "The Plasma Science and Fusion Technology (PSFT) Group at the University of Seville aims at making fusion energy a reality for our society. A clean, sustainable and virtually unlimited energy source makes fusion the scientific and engineering challenge of the 21st century. The PSFT group seeks to answer some of the most important questions on the fusion energy quest. Based on cutting-edge technologies and state-of-the-art numerical codes, we aim at getting a better understanding of energetic particle and plasma edge physics; key areas in the development of a high confinement, self maintained burning plasma. The development of new diagnostics and experimental approaches for the most relevant experimental fusion reactors worldwide form the basis of our research. The PSFT research mission is completed with the training of the new generation of fusion scientists and engineers."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -219,11 +213,11 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Sevilla"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Public Transit", information: ''}
+ - {title: "Hotels", information: 'Sevilla has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -231,24 +225,24 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "", text: "InterContinental"}
+     - {link: "", text: "The Hotel Rex"}
+     - {link: "", text: "Westin Market Street"}
+     - {link: "", text: "Hotel Adagio"}
    -
     title: "Registration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: " ", text: "InterContinental"}
+     - {link: "", text: "The Hotel Rex"}
+     - {link: "", text: "Westin Market Street"}
+     - {link: "", text: "Hotel Adagio"}
    -
     title: "Attendance Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "", text: "InterContinental"}
+     - {link: "", text: "The Hotel Rex"}
+     - {link: "", text: "Westin Market Street"}
+     - {link: "", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
