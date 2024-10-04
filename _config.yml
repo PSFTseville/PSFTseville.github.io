@@ -59,8 +59,8 @@ eventDate: "March, 2025"
 typeoutTextValues: ''
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "", text: "Become a speaker", disabled: true}
+ - {permalink: "/#tickets", text: "Buy tickets", disabled: true}
 
 # About Block
 aboutTitle: "About TMEP 2025"
