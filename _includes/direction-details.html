@@ -26,11 +26,11 @@
                         {% assign wideCardColWidth = 12 | divided_by: forloop.length %}
                         <div class="col-md-{{ wideCardColWidth }} col-xs-12">
                             <h5>{{ subCard.title }}</h5>
-                            <ul>
+                            <div>
                                 {% for linkElement in subCard.links %}
-                                <li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
+                                <a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}><img src="{{ site.baseurl }}/img/accommodation/{{ element.imageUrl }}"></a>
                                 {% endfor %}
-                            </ul>
+                            </div>
                         </div>
                         {% endfor %}
                     </div>

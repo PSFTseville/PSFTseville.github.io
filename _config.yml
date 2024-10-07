@@ -193,29 +193,15 @@ directionDetailsCards:
  - {title: "By Car", information: 'A good way to get to Seville is by road – there is a good road network with several motorways (toll and free). The most important is the A-4, which connects Andalusia and Madrid. Granada and the Costa del Sol (Malaga, International Airport) are linked with Seville by the A-92 motorway. Travel to Portugal is on the A-49 motorway. All access to motorways and main roads is from the SE-30 ring road around Seville, with numerous points of access into the city centre.'}
 directionDetailsWideCards:
  -
-  title: "Questions?"
+  title: "Accommodation"
   subCards:
    -
     title: "Hotels"
     links:
-     - {link: "", text: "InterContinental"}
-     - {link: "", text: "The Hotel Rex"}
-     - {link: "", text: "Westin Market Street"}
-     - {link: "", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: " ", text: "InterContinental"}
-     - {link: "", text: "The Hotel Rex"}
-     - {link: "", text: "Westin Market Street"}
-     - {link: "", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "", text: "InterContinental"}
-     - {link: "", text: "The Hotel Rex"}
-     - {link: "", text: "Westin Market Street"}
-     - {link: "", text: "Hotel Adagio"}
+     - {link: "accommodation/hotel-alcazar", imageUrl: "hotel-alcazar.jpg"}
+     - {link: "accommodation/melia-sevilla", imageUrl: "melia-sevilla.jpg"}
+     - {link: "accommodation/hotel-pasarela", imageUrl: "hotel-pasarela.jpg"}
+     - {link: "accommodation/hotel-legado-alcazar", imageUrl: "hotel-legado-alcazar.jpg"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
