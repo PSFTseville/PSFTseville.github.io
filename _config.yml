@@ -185,11 +185,12 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Sevilla"
+directionDetailsTitle: "How to reach Sevilla"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: ''}
- - {title: "Hotels", information: 'Sevilla has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "By Plane", information: 'The airport is ten kilometres north of the city, close to the A-4 motorway. When going from the airport to the city centre, visitors can opt for a taxi (30 € aprox.) or take a special bus service, connecting the Plaza de Armas bus station in the centre of the city with the airport, with different stops throughout the city. The journey takes approximately 35 minutes. Public transport company <a href="https://www.tussam.es/">TUSSAM</a>.'}
+ - {title: "By Train", information: 'Seville has been served by the high-speed train (AVE) since 1992, provided by <a href="https://www.renfe.com/es/en">Renfe.</a> These trains offer about twenty daily services (in each direction) between Seville and Madrid, with a maximum journey time of around two and a half hours. The AVE also connects with Malaga (International Airport) in around two hours, with Barcelona, in around five and a half hours, and with Valencia in a little less than four hours. '}
+ - {title: "By Bus", information: 'There are two bus and coach stations in the city. The main one is at <a href="https://www.autobusesplazadearmas.es/">Plaza de Armas</a>, with numerous daily national and international services. The Prado de San Sebastián bus station operates scheduled regional services.'}
+ - {title: "By Car", information: 'A good way to get to Seville is by road – there is a good road network with several motorways (toll and free). The most important is the A-4, which connects Andalusia and Madrid. Granada and the Costa del Sol (Malaga, International Airport) are linked with Seville by the A-92 motorway. Travel to Portugal is on the A-49 motorway. All access to motorways and main roads is from the SE-30 ring road around Seville, with numerous points of access into the city centre.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
