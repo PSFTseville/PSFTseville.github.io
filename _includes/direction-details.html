@@ -28,7 +28,12 @@
                             <h5>{{ subCard.title }}</h5>
                             <div>
                                 {% for linkElement in subCard.links %}
-                                <a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}><img src="{{ site.baseurl }}/img/accommodation/{{ linkElement.imageUrl }}"></a>
+                                <a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>
+                                    <div class="accommodation-container">
+                                        <img src="{{ site.baseurl }}/img/accommodation/{{ linkElement.imageUrl }}">
+                                        <div class="accommodation-text">{{linkElement.imageText}}</div>
+                                    </div>
+                                </a>
                                 {% endfor %}
                             </div>
                         </div>

@@ -198,10 +198,10 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "accommodation/hotel-alcazar", imageUrl: "hotel-alcazar.jpg"}
-     - {link: "accommodation/melia-sevilla", imageUrl: "melia-sevilla.jpg"}
-     - {link: "accommodation/hotel-pasarela", imageUrl: "hotel-pasarela.jpg"}
-     - {link: "accommodation/hotel-legado-alcazar", imageUrl: "hotel-legado-alcazar.jpg"}
+     - {link: "https://www.hotelalcazar.com/en/", imageText: "Alcázar Hotel", imageUrl: "hotel-alcazar.jpg"}
+     - {link: "https://www.melia.com/es/hoteles/espana/sevilla/melia-sevilla?esl-k=sem-google%7Cng%7Cc675455636878%7Cmp%7Ckmelia%20sevilla%7Cp%7Ct%7Cdc%7Ca134023307012%7Cg14891490160&&gad_source=1&gclid=Cj0KCQjwjY64BhCaARIsAIfc7YYGe3dqunQKx0xbas46SgqkPQkOwoYqX60m5paQJID9KnFrtpx4Sx4aAkWHEALw_wcB&gclsrc=aw.ds", imageText: "Meliá Sevilla", imageUrl: "melia-sevilla.jpg"}
+     - {link: "https://www.hotelpasarela.com/en/", imageText: "Pasarela Hotel", imageUrl: "hotel-pasarela.jpg"}
+     - {link: "https://legadoalcazarhotel.com", imageText: "Legado Alcázar Hotel", imageUrl: "hotel-legado-alcazar.jpg"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
