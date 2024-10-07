@@ -26,7 +26,7 @@
                         {% assign wideCardColWidth = 12 | divided_by: forloop.length %}
                         <div class="col-md-{{ wideCardColWidth }} col-xs-12">
                             <h5>{{ subCard.title }}</h5>
-                            <div>
+                            <div class="accommodation-elements">
                                 {% for linkElement in subCard.links %}
                                 <a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>
                                     <div class="accommodation-container">
