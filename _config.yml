@@ -203,7 +203,7 @@ directionDetailsWideCards:
      - {link: "https://www.hotelalcazar.com/en/", imageTitle: "Alcázar Hotel ***", imageUrl: "hotel-alcazar.jpg", imageText: "A twelve minute walk from the venue, Hotel Alcázar is located in one of the most emblematic districts of Seville, a starting point for experiencing the true essence of the city and for visiting key monuments such as the Seville Cathedral, Plaza de España, the Giralda, the Royal Alcázar or the University of Seville."}
      - {link: "https://ibarrahostel.es/", imageTitle: "Ibarra Hostel **", imageUrl: "ibarra-hostel.jpg", imageText: "Fifteen minutes away from the venue, Ibarra Hostel is located in the center of Seville, in a completely restored typical andalusian house."}
      - {link: "https://onefamhostels.com/catedral-onefam-hostel-sevilla/", imageTitle: "Onefam Hostel **", imageUrl: "onefam-hostel.jpg", imageText: "Eighteen minutes away from the venue, Onefam Hostel is a social hostel with amazing people, activities and the best atmosphere to make your visit to Seville unique. An unbeatable location, just one minute walking from the Cathedral and Alcazar."}
-  -
+ -
   title: "Cultural Offer"
   subCards:
    -
