@@ -193,8 +193,7 @@ directionDetailsCards:
  - {title: "By Car", information: 'A good way to get to Seville is by road – there is a good road network with several motorways (toll and free). The most important is the A-4, which connects Andalusia and Madrid. Granada and the Costa del Sol (Malaga, International Airport) are linked with Seville by the A-92 motorway. Travel to Portugal is on the A-49 motorway. All access to motorways and main roads is from the SE-30 ring road around Seville, with numerous points of access into the city centre.'}
 directionDetailsWideCards:
  -
-  title: "Accommodation <br> There are many good hotels in the center of Seville"
-  subtitle: "There are many good hotels in the center of Seville"
+  title: "Accommodation"
   description: "There are many good hotels in the center of Seville and near to the conference site. Find some examples below. Please bear in mind that Seville is very popular in all seasons. Early booking is highly recommended."
   subCards:
    -
@@ -207,7 +206,6 @@ directionDetailsWideCards:
      - {link: "https://onefamhostels.com/catedral-onefam-hostel-sevilla/", imageTitle: "Onefam Hostel **", imageUrl: "onefam-hostel.jpg", imageText: "Eighteen minutes away from the venue, Onefam Hostel is a social hostel with amazing people, activities and the best atmosphere to make your visit to Seville unique. An unbeatable location, just one minute walking from the Cathedral and Alcazar."}
  -
   title: "Cultural Offer"
-  subtitle: "There are many good hotels in the center of Seville"
   description: "In Seville you can find a variety of cultural offer. Below we provide a small selection of events to be held during the week of the meeting and links to some of the main cultural spaces in the city. You can find more information in the <a href="https://www.turismosevilla.org/en/organize-your-trip/tourist-offices/seville-centre-tourist-office">Seville official tourism website</a> or in cultural event guides as <a href="https://elegirhoy-com.translate.goog//?&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en">El Giraldillo</a> or <a href="https://onsevilla.com/">Guia del Ocio.</a>"
   subCards:
    -
