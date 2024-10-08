@@ -31,7 +31,10 @@
                                 <a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>
                                     <div class="accommodation-container">
                                         <img src="{{ site.baseurl }}/img/accommodation/{{ linkElement.imageUrl }}">
-                                        <div class="accommodation-text">{{linkElement.imageText}}</div>
+                                        <div class="accommodation-text">
+                                            <h2>{{linkElement.imageTitle}}</h2>
+                                            <p>{{linkElement.imageText}}</p>
+                                        </div>
                                     </div>
                                 </a>
                                 {% endfor %}
