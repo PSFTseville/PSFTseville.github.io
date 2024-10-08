@@ -4,6 +4,7 @@
 .accommodation-elements {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .accommodation-container {
@@ -30,6 +31,9 @@
 
 .accommodation-container img {
     height: 500px;
+    width: 600px;
+    object-fit: cover;
+    margin: 20px;
 }
 
 .accommodation-container:hover img {
