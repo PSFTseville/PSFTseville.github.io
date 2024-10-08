@@ -204,19 +204,7 @@ directionDetailsWideCards:
      - {link: "https://www.hotelalcazar.com/en/", imageTitle: "Alcázar Hotel ***", imageUrl: "hotel-alcazar.jpg", imageText: "A twelve minute walk from the venue, Hotel Alcázar is located in one of the most emblematic districts of Seville, a starting point for experiencing the true essence of the city and for visiting key monuments such as the Seville Cathedral, Plaza de España, the Giralda, the Royal Alcázar or the University of Seville."}
      - {link: "https://ibarrahostel.es/", imageTitle: "Ibarra Hostel **", imageUrl: "ibarra-hostel.jpg", imageText: "Fifteen minutes away from the venue, Ibarra Hostel is located in the center of Seville, in a completely restored typical andalusian house."}
      - {link: "https://onefamhostels.com/catedral-onefam-hostel-sevilla/", imageTitle: "Onefam Hostel **", imageUrl: "onefam-hostel.jpg", imageText: "Eighteen minutes away from the venue, Onefam Hostel is a social hostel with amazing people, activities and the best atmosphere to make your visit to Seville unique. An unbeatable location, just one minute walking from the Cathedral and Alcazar."}
- -
-  title: "Cultural Offer"
-  description: "In Seville you can find a variety of cultural offer. Below we provide a small selection of events to be held during the week of the meeting and links to some of the main cultural spaces in the city. You can find more information in the <a href="https://www.turismosevilla.org/en/organize-your-trip/tourist-offices/seville-centre-tourist-office">Seville official tourism website</a> or in cultural event guides as <a href="https://elegirhoy-com.translate.goog//?&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en">El Giraldillo</a> or <a href="https://onsevilla.com/">Guia del Ocio.</a>"
-  subCards:
-   -
-    links:
-     - {link: "https://www.catedraldesevilla.es/", imageTitle: "Cathedral of Seville", imageUrl: "catedral-sevilla.jpg"}
-     - {link: "https://www.google.es/maps/place/Plaza+de+Espa%C3%B1a,+41013+Sevilla/@37.3770029,-5.989754,17z/data=!3m1!4b1!4m6!3m5!1s0xd126c2115c814eb:0x5b13dff2128dab06!8m2!3d37.377021!4d-5.9870583!16s%2Fg%2F11bw43_nss?hl=es&entry=ttu&g_ep=EgoyMDI0MTAwNS4wIKXMDSoASAFQAw%3D%3D", imageTitle: "Plaza de España", imageUrl: "plaza-españa.jpg", imageText: ""}
-     - {link: "https://museodelbaileflamenco.com/index.php/en/home/", imageTitle: "Museo del Baile Flamenco", imageUrl: "museo-baile-flamenco.jpg", imageText: ""}
-     - {link: "https://www.museosdeandalucia.es/web/museodebellasartesdesevilla", imageTitle: "Museo de Bellas Artes de Sevilla", imageUrl: "museo-bellas-artes.jpg", imageText: ""}
-     - {link: "https://www.museosdeandalucia.es/web/museoarqueologicodesevilla", imageTitle: "Museo Arqueológico de Sevilla", imageUrl: "museo-arqueologico.jpg", imageText: ""}
-     - {link: "https://www.alcazarsevilla.org/en/", imageTitle: "Alcázar of Seville", imageUrl: "alcazar.jpg", imageText: ""}
-     
+  
 
 # Hackathon
 hackathonTitle: "Hackathon"
