@@ -19,8 +19,12 @@
     font-size: 3em;
 }
 
+.accommodation-container img {
+    height: 500px;
+}
+
 .accommodation-container:hover img {
-    -webkit-filter: brightness(50%);
+    -webkit-filter: brightness(40%);
     -webkit-transition: all 1s ease-in-out;
     -moz-transition: all 1s ease-in-out;
     -o-transition: all 1s ease-in-out;
