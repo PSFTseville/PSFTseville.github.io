@@ -194,6 +194,7 @@ directionDetailsCards:
 directionDetailsWideCards:
  -
   title: "Accommodation"
+  subtitle: "There are many good hotels in the center of Seville"
   description: "There are many good hotels in the center of Seville and near to the conference site. Find some examples below. Please bear in mind that Seville is very popular in all seasons. Early booking is highly recommended."
   subCards:
    -
@@ -206,6 +207,7 @@ directionDetailsWideCards:
      - {link: "https://onefamhostels.com/catedral-onefam-hostel-sevilla/", imageTitle: "Onefam Hostel **", imageUrl: "onefam-hostel.jpg", imageText: "Eighteen minutes away from the venue, Onefam Hostel is a social hostel with amazing people, activities and the best atmosphere to make your visit to Seville unique. An unbeatable location, just one minute walking from the Cathedral and Alcazar."}
  -
   title: "Cultural Offer"
+  subtitle: "There are many good hotels in the center of Seville"
   description: "In Seville you can find a variety of cultural offer. Below we provide a small selection of events to be held during the week of the meeting and links to some of the main cultural spaces in the city. You can find more information in the <a href="https://www.turismosevilla.org/en/organize-your-trip/tourist-offices/seville-centre-tourist-office">Seville official tourism website</a> or in cultural event guides as <a href="https://elegirhoy-com.translate.goog//?&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en">El Giraldillo</a> or <a href="https://onsevilla.com/">Guia del Ocio.</a>"
   subCards:
    -
