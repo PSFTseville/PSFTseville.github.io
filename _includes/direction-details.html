@@ -30,7 +30,7 @@
                                 {% for linkElement in subCard.links %}
                                 <a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>
                                     <div class="accommodation-container">
-                                        <img src="{{ site.baseurl }}/img/accommodation/{{ linkElement.imageUrl }}">
+                                        <img src="{{ site.baseurl }}/img/logistics/{{ linkElement.imageUrl }}">
                                         <div class="accommodation-text">
                                             <h5>{{linkElement.imageTitle}}</h5>
                                             <p>{{linkElement.imageText}}</p>
