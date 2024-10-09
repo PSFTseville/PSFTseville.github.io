@@ -44,6 +44,7 @@ c4sponsorsUrl: ""
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/agenda/", text: "Agenda"}
+ - {permalink: "/important-dates/", text: "Important Dates"}
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
