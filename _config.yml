@@ -58,9 +58,6 @@ heroTitle: "TMEP 2025"
 eventDate: "March, 2025"
 typeoutTextValues: ''
 typeoutFallback: "Season"
-heroButtons:
- - {link: "", text: "Become a speaker", disabled: true}
- - {permalink: "/#tickets", text: "Buy tickets", disabled: true}
 
 # About Block
 aboutTitle: "About TMEP 2025"
