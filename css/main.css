@@ -54,11 +54,11 @@
     transition: all 0.5s ease-in-out;
 }
 
-.dates-list {
+.dates-list, .registration-list {
     list-style-type: none;
 }
 
-.dates-list li {
+.dates-list li, .registration-list li {
     font-size: 20px;
     margin-bottom: 5px;
 }
