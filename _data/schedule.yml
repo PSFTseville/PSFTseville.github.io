@@ -2,9 +2,11 @@
   date: "2014-10-24"
   dateReadable: "October 24"
   tracks: 
-    - {title: "", color: "#90be4e"}
-    - {title: "", color: "#03a9f4"}
-    - {title: "", color: "#e91e63"}
+    - {title: "Monday 17th March", color: "#90be4e"}
+    - {title: "Tuesday 18th March", color: "#03a9f4"}
+    - {title: "Wednesday 19th March", color: "#e91e63"}
+    - {title: "Thursday 20th March", color: "#e91e63"}
+    - {title: "Friday 21st March", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "10:00",
