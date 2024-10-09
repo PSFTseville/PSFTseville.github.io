@@ -45,6 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/agenda/", text: "Agenda"}
  - {permalink: "/important-dates/", text: "Important Dates"}
+ - {permalink: "/registration/", text: "Registration"}
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
