@@ -65,8 +65,7 @@ typeoutFallback: "Season"
 # About Block
 aboutTitle: "About TMEP 2025"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest fusion related event in the country carefully crafted for you by PSFT" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {text: "The 16th Technical Meeting on Energetic Particles in Magnetic Confinement Systems — Theory of Plasma Instabilities (EPPI 2019) aims to provide a forum to discuss the status of experimental and theoretical work on suprathermal electrons and ions in a wide variety of magnetic confinement geometries, and to discuss theoretical and computational physics issues relevant to burning plasmas. " }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
