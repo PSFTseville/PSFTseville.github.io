@@ -67,11 +67,21 @@
     margin-top: 20px;
 }
 
+.social-container {
+    box-shadow: 0 1px 7px rgba(0,0,0,0.06),0 1px 3px rgba(0,0,0,0.15);
+    border-radius: 4px;
+    margin: 2em;
+    margin-bottom: 5em;
+    padding: 5em;
+}
+
 .social-images {
     display: flex;
+    justify-content: center;
 }
 
 .social-images img {
     height: 400px;
     width: 500px;
+    margin: 20px;
 }
