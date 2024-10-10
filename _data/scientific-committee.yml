@@ -1,0 +1,20 @@
+- 
+  id: 0
+  name: "Eleonora"
+  surname: "Viezzer"
+  title: "Associate Professor at US"
+  thumbnailUrl: eleonora-viezzer.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://x.com/eleonoraviezzer"}
+    - {name: "site", link: "https://investigacion.us.es/sisius/sis_showpub.php?idpers=23831"}
+- 
+  id: 1
+  name: "Manuel"
+  surname: "García Muñoz"
+  title: "Associate Professor at US"
+  thumbnailUrl: manuel-garcia.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://x.com/PSFT__"}
+    - {name: "site", link: "https://investigacion.us.es/sisius/sis_showpub.php?idpers=19135"}

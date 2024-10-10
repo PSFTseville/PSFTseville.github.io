@@ -44,6 +44,7 @@ c4sponsorsUrl: ""
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/agenda/", text: "Agenda"}
+ - {permalink: "/scientific-committee/", text: "Scientific Committee"}
  - {permalink: "/important-dates/", text: "Important Dates"}
  - {permalink: "/registration/", text: "Registration"}
 # - {permalink: "/speakers/", text: "Speakers"}
@@ -169,6 +170,9 @@ showSessions: true
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: "The Plasma Science and Fusion Technology (PSFT) Group at the University of Seville aims at making fusion energy a reality for our society. A clean, sustainable and virtually unlimited energy source makes fusion the scientific and engineering challenge of the 21st century. The PSFT group seeks to answer some of the most important questions on the fusion energy quest. Based on cutting-edge technologies and state-of-the-art numerical codes, we aim at getting a better understanding of energetic particle and plasma edge physics; key areas in the development of a high confinement, self maintained burning plasma. The development of new diagnostics and experimental approaches for the most relevant experimental fusion reactors worldwide form the basis of our research. The PSFT research mission is completed with the training of the new generation of fusion scientists and engineers."
+
+# Scientific Committee Block
+scientificCommitteeBlockTitle: "Scientific Committee"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
