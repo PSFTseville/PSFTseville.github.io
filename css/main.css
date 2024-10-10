@@ -97,8 +97,8 @@
     }
 
     .social-images img {
-        height: none;
-        width: none;
+        height: unset;
+        width: unset;
     }
 
 }
