@@ -66,3 +66,12 @@
 #menu.st-menu.st-effect {
     margin-top: 20px;
 }
+
+.social-images {
+    display: flex;
+}
+
+.social-images img {
+    height: 400px;
+    width: 500px;
+}
