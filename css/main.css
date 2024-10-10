@@ -85,3 +85,20 @@
     width: 500px;
     margin: 20px;
 }
+
+@media (max-width: 800px) {
+    .social-container {
+        margin: 1em;
+        padding: 10px;
+    }
+
+    .social-images {
+        flex-direction: column;
+    }
+
+    .social-images img {
+        height: none;
+        width: none;
+    }
+
+}
