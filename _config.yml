@@ -49,6 +49,7 @@ navigationLinks:
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/social-program/", text: "Social Program"}
 #bottomNavigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 #rightNavigationButtons:
