@@ -110,6 +110,18 @@
     margin-right: 50px;
 }
 
+.psft-logo {
+    background-image:url("../img/sprites/PSFT_LOGO.png");
+    background-repeat: no-repeat;
+    background-size:contain;
+    height: 90px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top:30px;
+    position: relative;
+    z-index: 10;
+}
+
 .uni-logo {
     background-image:url("../img/sprites/US-marca-principal.png");
     background-repeat: no-repeat;

@@ -70,7 +70,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of technical talks"}
  - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 
