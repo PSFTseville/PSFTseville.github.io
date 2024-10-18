@@ -5,7 +5,7 @@
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">International Programme Advisory Committee</h4>
             {% for teamMember in site.data.scientific-committee %} {% if teamMember.team != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
-                <h2 class="name">{{ teamMember.surname }}, <span>{{ teamMember.name }} - {{ teamMember.title }}</span></h2>
+                <h6 class="name">{{ teamMember.surname }}, <span>{{ teamMember.name }} - {{ teamMember.title }}</span></h6>
             </div>
             {% endif %} {% endfor %}
         </div>
@@ -14,7 +14,7 @@
             {% for teamMember in site.data.scientific-committee %} {% if teamMember.subTeam != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
-                    <h2 class="name">{{ teamMember.surname }}, <span>{{ teamMember.name }} - {{ teamMember.title }}</span></h2>
+                    <h6 class="name">{{ teamMember.surname }}, <span>{{ teamMember.name }} - {{ teamMember.title }}</span></h6>
                 </div>
             </div>
             {% endif %} {% endfor %}
