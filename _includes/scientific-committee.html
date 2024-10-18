@@ -4,19 +4,16 @@
         <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">International Programme Advisory Committee</h4>
             {% for teamMember in site.data.scientific-committee %} {% if teamMember.team != null %}
-            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <h6 class="name">{{ teamMember.surname }}, <span>{{ teamMember.name }} - {{ teamMember.title }}</span></h6>
-            </div>
+            
             {% endif %} {% endfor %}
         </div>
         <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Local Organizing Committee</h4>
             {% for teamMember in site.data.scientific-committee %} {% if teamMember.subTeam != null %}
-            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
-                <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+            
                     <h6 class="name">{{ teamMember.surname }}, <span>{{ teamMember.name }} - {{ teamMember.title }}</span></h6>
-                </div>
-            </div>
+            
             {% endif %} {% endfor %}
         </div>
     </div>
