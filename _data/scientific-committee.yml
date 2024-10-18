@@ -2,19 +2,104 @@
   id: 0
   name: "Eleonora"
   surname: "Viezzer"
-  title: "Associate Professor at US"
+  title: "Spain"
   thumbnailUrl: eleonora-viezzer.jpg
-  team: true
+  subTeam: true
   social: 
     - {name: "twitter", link: "https://x.com/eleonoraviezzer"}
     - {name: "site", link: "https://investigacion.us.es/sisius/sis_showpub.php?idpers=23831"}
 - 
   id: 1
   name: "Manuel"
-  surname: "García Muñoz"
-  title: "Associate Professor at US"
+  surname: "Garcia-Munoz"
+  title: "Spain"
   thumbnailUrl: manuel-garcia.jpg
   team: true
+  subTeam: true
   social: 
     - {name: "twitter", link: "https://x.com/PSFT__"}
     - {name: "site", link: "https://investigacion.us.es/sisius/sis_showpub.php?idpers=19135"}
+- 
+  id: 2
+  name: "William"
+  surname: "Heldbrink"
+  title: "United States of America"
+  team: true
+- 
+  id: 3
+  name: "Boris"
+  surname: "Breizman"
+  title: "United States of America"
+  team: true
+- 
+  id: 4
+  name: "Huishan"
+  surname: "Cai"
+  title: "China"
+  team: true
+- 
+  id: 5
+  name: "Wei"
+  surname: "Chen"
+  title: "China"
+  team: true
+- 
+  id: 6
+  name: "Ambrogio"
+  surname: "Fasoli"
+  title: "Switzerland"
+  team: true
+- 
+  id: 7
+  name: "Eric"
+  surname: "Fredrickson"
+  title: "United States of America"
+  team: true
+- 
+  id: 8
+  name: "Tunde"
+  surname: "Fulop"
+  title: "Sweden"
+  team: true
+- 
+  id: 9
+  name: "Yaroslav"
+  surname: "Kolesnichenko"
+  title: "Ukraine"
+  team: true
+- 
+  id: 10
+  name: "Philipp"
+  surname: "Lauber"
+  title: "Germany"
+  team: true
+- 
+  id: 11
+  name: "Simon"
+  surname: "Pinches"
+  title: "ITER Organization"
+  team: true
+- 
+  id: 12
+  name: "Sergei"
+  surname: "Sharapov"
+  title: "United Kingdom"
+  team: true
+- 
+  id: 13
+  name: "Kouji"
+  surname: "Shinohara"
+  title: "Japan"
+  team: true
+- 
+  id: 14
+  name: "Yasushi"
+  surname: "Todo"
+  title: "Japan"
+  team: true
+- 
+  id: 15
+  name: "Gregorio"
+  surname: "Vlad"
+  title: "Italy"
+  team: true
