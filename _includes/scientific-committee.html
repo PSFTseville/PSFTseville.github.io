@@ -16,6 +16,14 @@
             
             {% endif %} {% endfor %}
         </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Topics</h4>
+            {% for topic in site.data.scientific-committee %} {% if topic.topic != null %}
+            
+                    <h6 style="color:#03a9f4;" class="name">{{ topic.title }}</h6>
+            
+            {% endif %} {% endfor %}
+        </div>
     </div>
 </section>
 <!-- End Scientific Committee -->

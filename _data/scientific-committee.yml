@@ -103,3 +103,35 @@
   surname: "Vlad"
   title: "Italy"
   team: true
+- 
+  id: 16
+  title: "Alpha Particles Physics"
+  topic: true
+- 
+  id: 17
+  title: "Transport of Energetic Particles"
+  topic: true
+- 
+  id: 18
+  title: "Effects of Eneretic Particles in Magnetic Confinement Fusion Devices"
+  topic: true
+- 
+  id: 19
+  title: "Collective Phenomena"
+  topic: true
+- 
+  id: 20
+  title: "Runway Electrons"
+  topic: true
+- 
+  id: 21
+  title: "Diagnostics for Energetic Particles"
+  topic: true
+- 
+  id: 22
+  title: "Control of Energetic Particle Confinement"
+  topic: true
+- 
+  id: 23
+  title: "Multiscale Physics and Instabilities involving Energetic Particles in Burning Plasmas"
+  topic: true
