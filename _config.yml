@@ -61,7 +61,7 @@ heroImage: "hero.jpg"
 heroTitle: "TMEP 2025"
 eventDate: "March, 2025"
 typeoutTextValues: ''
-typeoutFallback: "Season"
+typeoutFallback: ""
 
 # About Block
 aboutTitle: "About TMEP 2025"
