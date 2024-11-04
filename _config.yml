@@ -66,7 +66,7 @@ typeoutFallback: ""
 # About Block
 aboutTitle: "About TMEP 2025"
 aboutBlock:
- - {text: "The 16th Technical Meeting on Energetic Particles in Magnetic Confinement Systems — Theory of Plasma Instabilities (EPPI 2019) aims to provide a forum to discuss the status of experimental and theoretical work on suprathermal electrons and ions in a wide variety of magnetic confinement geometries, and to discuss theoretical and computational physics issues relevant to burning plasmas. " }
+ - {text: "The purpose of the meeting is to discuss the status of experimental and theoretical works on suprathermal electrons and ions in a wide variety of magnetic confinement geometries. The meeting will cover the formation and transportation of energetic particles, including their confinement properties. It will also provide a detailed account of the location of lost energetic particle incidence on first wall components, the collective instabilities they drive, their impact on plasma properties in different operational scenarios, and energetic particles diagnostics. It will aim, in particular, at identifying open physics issues and gaps associated with energetic particles in ITER and future fusion power plants." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
