@@ -25,6 +25,7 @@
   surname: "Heldbrink"
   title: "United States of America"
   team: true
+  
 - 
   id: 3
   name: "Boris"
@@ -33,7 +34,7 @@
   team: true
 - 
   id: 4
-  name: "Huishan"
+  name: "HuiShan"
   surname: "Cai"
   title: "China"
   team: true
@@ -57,8 +58,8 @@
   team: true
 - 
   id: 8
-  name: "Tunde"
-  surname: "Fulop"
+  name: "Tünde"
+  surname: "Fulöp"
   title: "Sweden"
   team: true
 - 
@@ -96,6 +97,42 @@
   name: "Yasushi"
   surname: "Todo"
   title: "Japan"
+  team: true
+- 
+  id: 24
+  name: "Andreas"
+  surname: "Bierwage"
+  title: "Japan"
+  team: true
+- 
+  id: 25
+  name: "Gyungjin"
+  surname: "Choi"
+  title: "Korea"
+  team: true
+- 
+  id: 26
+  name: "William"
+  surname: "Heldbrink"
+  title: "United States of America"
+  team: true
+- 
+  id: 27
+  name: "Matthew"
+  surname: "Hole"
+  title: "Australia"
+  team: true
+- 
+  id: 28
+  name: "Taina"
+  surname: "Kurki-Suonio"
+  title: "Finland"
+  team: true
+- 
+  id: 29
+  name: "Mervi"
+  surname: "Mantsinen"
+  title: "Spain"
   team: true
 - 
   id: 15
