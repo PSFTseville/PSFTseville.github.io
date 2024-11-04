@@ -15,7 +15,6 @@
   title: "Spain"
   thumbnailUrl: manuel-garcia.jpg
   team: true
-  subTeam: true
   social: 
     - {name: "twitter", link: "https://x.com/PSFT__"}
     - {name: "site", link: "https://investigacion.us.es/sisius/sis_showpub.php?idpers=19135"}
@@ -142,30 +141,36 @@
   team: true
 - 
   id: 30
+  name: "Manuel"
+  surname: "Garcia-Munoz"
+  title: "Spain"
+  subteam: true
+- 
+  id: 31
   name: "Joaquin"
   surname: "Galdon-Quiroga"
   title: "Spain"
   subTeam: true
 - 
-  id: 31
+  id: 32
   name: "Lucia"
   surname: "Sanchis-Sanchez"
   title: "Spain"
   subTeam: true
 - 
-  id: 31
+  id: 33
   name: "Javier"
   surname: "Gonzalez-Martin"
   title: "Spain"
   subTeam: true
 - 
-  id: 32
+  id: 34
   name: "Gloria"
   surname: "Jurado-Sanchez"
   title: "Spain"
   subTeam: true
 - 
-  id: 33
+  id: 35
   name: "Estefania"
   surname: "Garcia-Gallardo"
   title: "Spain (IT)"
