@@ -138,7 +138,7 @@
   name: "Manuel"
   surname: "Garcia-Munoz"
   title: "Spain"
-  subteam: true
+  subTeam: true
 - 
   id: 31
   name: "Joaquin"
