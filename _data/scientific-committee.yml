@@ -21,7 +21,7 @@
 - 
   id: 2
   name: "William"
-  surname: "Heldbrink"
+  surname: "Heidbrink"
   title: "United States of America"
   team: true
   
@@ -108,12 +108,6 @@
   name: "Gyungjin"
   surname: "Choi"
   title: "Korea"
-  team: true
-- 
-  id: 26
-  name: "William"
-  surname: "Heldbrink"
-  title: "United States of America"
   team: true
 - 
   id: 27
