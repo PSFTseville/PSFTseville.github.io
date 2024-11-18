@@ -183,6 +183,11 @@
     margin-right: 100px;
 }
 
-.statistic-content {
-    display: none;
+#statistic.statistic {
+    min-height: 150px;
+
+    .statistic-content {
+        display: none;
+    }
 }
+
