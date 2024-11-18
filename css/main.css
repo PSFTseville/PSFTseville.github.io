@@ -7119,7 +7119,11 @@ nav li a:hover {
 
 #menu {
 
-    li::after {
+    li {
+
+    
+
+    a::after {
         content: '';
         position: absolute;
         width: 100%;
@@ -7132,11 +7136,11 @@ nav li a:hover {
         transform-origin: bottom center;
     }
 
-    li:hover::after {
+    a:hover::after {
         transform: scaleX(1);
         transform-origin: bottom center;
     }
-
+}
 }
 
 @media (max-width: 767px) {
