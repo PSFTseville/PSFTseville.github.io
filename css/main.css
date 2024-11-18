@@ -155,12 +155,13 @@
     height: 530px;
 
     .hero-subtitle {
-        font-size: 35px;
+        font-size: 32px;
         font-weight: 300;
         margin-top: 40px;
     }
     
     .hero-title {
+        font-size: 50px;
         font-weight: 300;
         margin-top: 120px;
     }
