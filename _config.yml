@@ -66,7 +66,10 @@ typeoutFallback: ""
 # About Block
 aboutTitle: "18th Technical Meeting on Energetic Particles in Magnetic Confinement Systems"
 aboutBlock:
- - {text: "The purpose of the meeting is to discuss the status of experimental and theoretical works on suprathermal electrons and ions in a wide variety of magnetic confinement geometries. The meeting will cover the formation and transportation of energetic particles, including their confinement properties. It will also provide a detailed account of the location of lost energetic particle incidence on first wall components, the collective instabilities they drive, their impact on plasma properties in different operational scenarios, and energetic particles diagnostics. It will aim, in particular, at identifying open physics issues and gaps associated with energetic particles in ITER and future fusion power plants." }
+ - {text: "The purpose of the meeting is to discuss the status of experimental and theoretical works on suprathermal electrons and ions in a wide variety of magnetic confinement geometries. The meeting will cover the formation and transportation of energetic particles, including their confinement properties. It will also provide a detailed account of the location of lost energetic particle incidence on first wall components, the collective instabilities they drive, their impact on plasma properties in different operational scenarios, and energetic particles diagnostics. It will aim, in particular, at identifying open physics issues and gaps associated with energetic particles in ITER and future fusion power plants. \n
+    A Special Edition of refereed journal articles will be published in Nuclear Fusion* \n
+    *Subject to anticipated approval by the Editorial Board
+ "}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
