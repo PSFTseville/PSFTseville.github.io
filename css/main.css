@@ -153,6 +153,18 @@
 
 #top-section-hero.top-section-hero {
     height: 530px;
+
+    .hero-subtitle {
+        font-size: 35px;
+        font-weight: 300;
+        margin-top: 40px;
+    }
+    
+    .hero-title {
+        font-weight: 300;
+        margin-top: 120px;
+    }
+    
 }
 
 #important-registration.important-registration {
@@ -171,13 +183,3 @@
     margin-right: 100px;
 }
 
-.hero-subtitle {
-    font-size: 35px;
-    font-weight: 300;
-    margin-top: 40px;
-}
-
-.hero-title {
-    font-weight: 300;
-    margin-top: 120px;
-}
