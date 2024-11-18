@@ -54,8 +54,12 @@
     transition: all 0.5s ease-in-out;
 }
 
-.dates-list, .registration-list {
+.dates-list {
     list-style-type: none;
+}
+
+.registration-list  {
+    list-style-type: '-  ';
 }
 
 .dates-list li, .registration-list li {
@@ -149,5 +153,13 @@
 
 #top-section-hero.top-section-hero {
     height: 800px;
+}
+
+#important-registration.important-registration {
+    text-align: start;
+
+    p {
+        font-size: 20px;
+    }
 }
 
