@@ -74,9 +74,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "X", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "X", specialCharacter: "+", info: "hours", detail: "of technical talks"}
- - {count: "X", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of technical talks"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
