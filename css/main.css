@@ -123,12 +123,12 @@
     margin-left: 20px;
     margin-top:30px;
     position: relative;
+    transition: all 0.5s ease-in-out;
     z-index: 10;
 }
 
 .psft-logo:hover {
     background-image:url("../img/sprites/PSFT_LOGO.png");
-    transition: all 0.5s ease-in-out;
 }
 
 .uni-logo {
