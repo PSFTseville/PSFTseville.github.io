@@ -228,6 +228,8 @@ directionDetailsCards:
       information: "A good way to get to Seville is by road – there is a good road network with several motorways (toll and free). The most important is the A-4, which connects Andalusia and Madrid. Granada and the Costa del Sol (Malaga, International Airport) are linked with Seville by the A-92 motorway. Travel to Portugal is on the A-49 motorway. All access to motorways and main roads is from the SE-30 ring road around Seville, with numerous points of access into the city centre.",
     }
 directionDetailsWideCards:
+  - title: "Venue"
+    description: "The Valentín de Madariaga Foundation is located at the following address: Avda. de María Luisa s/n 41013 Sevilla."
   - title: "Accommodation"
     description: "There are many good hotels in the center of Seville and near to the conference site. Find some examples below. Please bear in mind that Seville is very popular in all seasons. Early booking is highly recommended."
     subCards:
