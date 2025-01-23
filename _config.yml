@@ -1,13 +1,12 @@
 # Plugins
 gems:
-- jekyll-sitemap
+  - jekyll-sitemap
 safe: false
 
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
-
+exclude: ["/automation/", "README.md", "LICENSE.txt", "CNAME"]
 
 # Site Settings
 title: "TMEP 2025"
@@ -39,18 +38,17 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: ""
 c4sponsorsUrl: ""
 
-
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/agenda/", text: "Agenda"}
- - {permalink: "/scientific-committee/", text: "Scientific Committee"}
- - {permalink: "/important-dates/", text: "Important Dates"}
- - {permalink: "/registration/", text: "Registration"}
-# - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/social-program/", text: "Social Program"}
+  - { permalink: "/", text: "Home" }
+  - { permalink: "/agenda/", text: "Agenda" }
+  - { permalink: "/scientific-committee/", text: "Scientific Committee" }
+  - { permalink: "/important-dates/", text: "Important Dates" }
+  - { permalink: "/registration/", text: "Registration" }
+  # - {permalink: "/speakers/", text: "Speakers"}
+  # - {permalink: "/team/", text: "Team"}
+  - { permalink: "/logistics/", text: "Logistics" }
+  - { permalink: "/social-program/", text: "Social Program" }
 #bottomNavigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 #rightNavigationButtons:
@@ -60,22 +58,40 @@ navigationLinks:
 heroImage: "hero.jpg"
 heroTitle: "18th Technical Meeting on Energetic Particles in Magnetic Confinement Systems"
 eventDate: "TMEP 2025, 17th-21st March, 2025"
-typeoutTextValues: ''
+typeoutTextValues: ""
 typeoutFallback: ""
 
 # About Block
 aboutBlock:
- - {text: "<b>The purpose of the meeting</b> is to discuss the status of experimental and theoretical works on suprathermal electrons and ions in a wide variety of magnetic confinement geometries. The meeting will cover the formation and transportation of energetic particles, including their confinement properties. It will also provide a detailed account of the location of lost energetic particle incidence on first wall components, the collective instabilities they drive, their impact on plasma properties in different operational scenarios, and energetic particles diagnostics. It will aim, in particular, at identifying open physics issues and gaps associated with energetic particles in ITER and future fusion power plants. <br><br>
-    A Special Edition of refereed journal articles will be published in Nuclear Fusion* <br><br>
-    *Subject to anticipated approval by the Editorial Board
- "}
+  - {
+      text:
+        "<b>The purpose of the meeting</b> is to discuss the status of experimental and theoretical works on suprathermal electrons and ions in a wide variety of magnetic confinement geometries. The meeting will cover the formation and transportation of energetic particles, including their confinement properties. It will also provide a detailed account of the location of lost energetic particle incidence on first wall components, the collective instabilities they drive, their impact on plasma properties in different operational scenarios, and energetic particles diagnostics. It will aim, in particular, at identifying open physics issues and gaps associated with energetic particles in ITER and future fusion power plants. <br><br>
+        A Special Edition of refereed journal articles will be published in Nuclear Fusion* <br><br>
+        *Subject to anticipated approval by the Editorial Board
+        ",
+    }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of technical talks"}
- - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+  - {
+      count: "100",
+      specialCharacter: "+",
+      info: "attendees",
+      detail: "from everywhere",
+    }
+  - {
+      count: "48",
+      specialCharacter: "+",
+      info: "hours",
+      detail: "of technical talks",
+    }
+  - {
+      count: "10",
+      specialCharacter: "+",
+      info: "speakers",
+      detail: "from country and beyond",
+    }
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -109,7 +125,10 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Valentín de Madariaga Foundation"
-venueFeatures: ["The Valentín de Madariaga Foundation is born in 2003 in memory of D. Valentín Madariaga y Oya"]
+venueFeatures: [
+    "The Valentín de Madariaga Foundation is born in 2003 in memory of D. Valentín Madariaga y Oya. It is located at the following address: Avda. de María Luisa s/n
+    41013 Sevilla",
+  ]
 
 # Tweets Feed Block
 tweetsFeedImage: "river-night-banner.jpg"
@@ -130,33 +149,36 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
- -
-  name: "General ticket"
-  price: "350"
-  priceCurrency: "EUR"
-  ticketsNumber: "100"
-  featured: true
-  buyButtonLink: ""
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2024-11-01T00:00"
-  validThrough: "2025-03-21T23:59"
-  disabled: true
-
+  - name: "General ticket"
+    price: "350"
+    priceCurrency: "EUR"
+    ticketsNumber: "100"
+    featured: true
+    buyButtonLink: ""
+    buyButtonText: "Buy Now"
+    ticketContentList:
+      [
+        "Lorem ipsum is simply",
+        "Dummy text of the printing",
+        "Typesetting industry",
+      ]
+    validFrom: "2024-11-01T00:00"
+    validThrough: "2025-03-21T23:59"
+    disabled: true
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=PSFT__", icon: "twitter"}
+  - {
+      link: "https://twitter.com/intent/user?screen_name=PSFT__",
+      icon: "twitter",
+    }
 footerBlocks:
- -
-  title: "Links"
-  links:
-   - {link: "http://psft.eu", text: "psft.eu"}
- -
-  title: "Contacts"
-  links:
-   - {link: "mailto:tmep2025@psft.eu", text: "tmep2025@psft.eu"}
-
+  - title: "Links"
+    links:
+      - { link: "http://psft.eu", text: "psft.eu" }
+  - title: "Contacts"
+    links:
+      - { link: "mailto:tmep2025@psft.eu", text: "tmep2025@psft.eu" }
 
 # Blog
 blogTitle: "Latest news"
@@ -189,36 +211,102 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "How to reach Sevilla"
 directionDetailsCards:
- - {title: "By Plane", information: 'The airport is ten kilometres north of the city, close to the A-4 motorway. When going from the airport to the city centre, visitors can opt for a taxi (30 € aprox.) or take a special bus service, connecting the Plaza de Armas bus station in the centre of the city with the airport, with different stops throughout the city. The journey takes approximately 35 minutes. Public transport company <a href="https://www.tussam.es/">TUSSAM</a>.'}
- - {title: "By Train", information: 'Seville has been served by the high-speed train (AVE) since 1992, provided by <a href="https://www.renfe.com/es/en">Renfe.</a> These trains offer about twenty daily services (in each direction) between Seville and Madrid, with a maximum journey time of around two and a half hours. The AVE also connects with Malaga (International Airport) in around two hours, with Barcelona, in around five and a half hours, and with Valencia in a little less than four hours. '}
- - {title: "By Bus", information: 'There are two bus and coach stations in the city. The main one is at <a href="https://www.autobusesplazadearmas.es/">Plaza de Armas</a>, with numerous daily national and international services. The Prado de San Sebastián bus station operates scheduled regional services.'}
- - {title: "By Car", information: 'A good way to get to Seville is by road – there is a good road network with several motorways (toll and free). The most important is the A-4, which connects Andalusia and Madrid. Granada and the Costa del Sol (Malaga, International Airport) are linked with Seville by the A-92 motorway. Travel to Portugal is on the A-49 motorway. All access to motorways and main roads is from the SE-30 ring road around Seville, with numerous points of access into the city centre.'}
+  - {
+      title: "By Plane",
+      information: 'The airport is ten kilometres north of the city, close to the A-4 motorway. When going from the airport to the city centre, visitors can opt for a taxi (30 € aprox.) or take a special bus service, connecting the Plaza de Armas bus station in the centre of the city with the airport, with different stops throughout the city. The journey takes approximately 35 minutes. Public transport company <a href="https://www.tussam.es/">TUSSAM</a>.',
+    }
+  - {
+      title: "By Train",
+      information: 'Seville has been served by the high-speed train (AVE) since 1992, provided by <a href="https://www.renfe.com/es/en">Renfe.</a> These trains offer about twenty daily services (in each direction) between Seville and Madrid, with a maximum journey time of around two and a half hours. The AVE also connects with Malaga (International Airport) in around two hours, with Barcelona, in around five and a half hours, and with Valencia in a little less than four hours. ',
+    }
+  - {
+      title: "By Bus",
+      information: 'There are two bus and coach stations in the city. The main one is at <a href="https://www.autobusesplazadearmas.es/">Plaza de Armas</a>, with numerous daily national and international services. The Prado de San Sebastián bus station operates scheduled regional services.',
+    }
+  - {
+      title: "By Car",
+      information: "A good way to get to Seville is by road – there is a good road network with several motorways (toll and free). The most important is the A-4, which connects Andalusia and Madrid. Granada and the Costa del Sol (Malaga, International Airport) are linked with Seville by the A-92 motorway. Travel to Portugal is on the A-49 motorway. All access to motorways and main roads is from the SE-30 ring road around Seville, with numerous points of access into the city centre.",
+    }
 directionDetailsWideCards:
- -
-  title: "Accommodation"
-  description: "There are many good hotels in the center of Seville and near to the conference site. Find some examples below. Please bear in mind that Seville is very popular in all seasons. Early booking is highly recommended."
-  subCards:
-   -
-    links:
-     - {link: "https://www.melia.com/es/hoteles/espana/sevilla/melia-sevilla?esl-k=sem-google%7Cng%7Cc675455636878%7Cmp%7Ckmelia%20sevilla%7Cp%7Ct%7Cdc%7Ca134023307012%7Cg14891490160&&gad_source=1&gclid=Cj0KCQjwjY64BhCaARIsAIfc7YYGe3dqunQKx0xbas46SgqkPQkOwoYqX60m5paQJID9KnFrtpx4Sx4aAkWHEALw_wcB&gclsrc=aw.ds", imageTitle: "Meliá Sevilla ****", imageUrl: "melia-sevilla.jpg", imageText: "Just a 12 minute walk through the gorgeous María Luisa Park separates Meliá Sevilla from the venue. The hotel boasts ample rooms, an avant-garde design, an exterior pool and spectacular restaurants."}
-     - {link: "https://www.hotelpasarela.com/en/", imageTitle: "Pasarela Hotel ****", imageUrl: "hotel-pasarela.jpg", imageText: "Twelve minutes away from the venue, Hotel Pasarela is located in the green heart of the city, surrounded by the María Luisa Park and the Prado de San Sebastián, and opposite Plaza de España."}
-     - {link: "https://legadoalcazarhotel.com", imageTitle: "Legado Alcázar Hotel ****", imageUrl: "hotel-legado-alcazar.jpg", imageText: "Fourteen minutes away from the venue, Legado Alcázar Hotel is built and protected within the historical complex of the Reales Alcázares Palace. Its 18 rooms, all uniquely decorated, as well as its courtyards, make it a point of reference for travellers who will with no doubt enjoy the comfort and quality of its facilities and services."}
-     - {link: "https://www.hotelalcazar.com/en/", imageTitle: "Alcázar Hotel ***", imageUrl: "hotel-alcazar.jpg", imageText: "A twelve minute walk from the venue, Hotel Alcázar is located in one of the most emblematic districts of Seville, a starting point for experiencing the true essence of the city and for visiting key monuments such as the Seville Cathedral, Plaza de España, the Giralda, the Royal Alcázar or the University of Seville."}
-     - {link: "https://ibarrahostel.es/", imageTitle: "Ibarra Hostel **", imageUrl: "ibarra-hostel.jpg", imageText: "Fifteen minutes away from the venue, Ibarra Hostel is located in the center of Seville, in a completely restored typical andalusian house."}
-     - {link: "https://onefamhostels.com/catedral-onefam-hostel-sevilla/", imageTitle: "Onefam Hostel **", imageUrl: "onefam-hostel.jpg", imageText: "Eighteen minutes away from the venue, Onefam Hostel is a social hostel with amazing people, activities and the best atmosphere to make your visit to Seville unique. An unbeatable location, just one minute walking from the Cathedral and Alcazar."}
- -
-  title: "Cultural Offer"
-  description: "In Seville you can find a variety of cultural offer. Below we provide a small selection of events to be held during the week of the meeting and links to some of the main cultural spaces in the city. You can find more information in the <a href='https://www.turismosevilla.org/en/organize-your-trip/tourist-offices/seville-centre-tourist-office'>Seville official tourism website</a> or in cultural event guides as <a href='https://elegirhoy-com.translate.goog//?&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en'>El Giraldillo</a> or <a href='https://onsevilla.com/'>Guia del Ocio.</a>"
-  subCards:
-   -
-    links:
-     - {link: "https://www.catedraldesevilla.es/", imageTitle: "Cathedral of Seville", imageUrl: "catedral-sevilla.jpg"}
-     - {link: "https://www.google.es/maps/place/Plaza+de+Espa%C3%B1a,+41013+Sevilla/@37.3770029,-5.989754,17z/data=!3m1!4b1!4m6!3m5!1s0xd126c2115c814eb:0x5b13dff2128dab06!8m2!3d37.377021!4d-5.9870583!16s%2Fg%2F11bw43_nss?hl=es&entry=ttu&g_ep=EgoyMDI0MTAwNS4wIKXMDSoASAFQAw%3D%3D", imageTitle: "Plaza de España", imageUrl: "plaza-españa.jpg", imageText: ""}
-     - {link: "https://museodelbaileflamenco.com/index.php/en/home/", imageTitle: "Museo del Baile Flamenco", imageUrl: "museo-baile-flamenco.jpg", imageText: ""}
-     - {link: "https://www.museosdeandalucia.es/web/museodebellasartesdesevilla", imageTitle: "Museo de Bellas Artes de Sevilla", imageUrl: "museo-bellas-artes.jpg", imageText: ""}
-     - {link: "https://www.museosdeandalucia.es/web/museoarqueologicodesevilla", imageTitle: "Museo Arqueológico de Sevilla", imageUrl: "museo-arqueologico.jpg", imageText: ""}
-     - {link: "https://www.alcazarsevilla.org/en/", imageTitle: "Alcázar of Seville", imageUrl: "alcazar.jpg", imageText: ""}
-     
+  - title: "Accommodation"
+    description: "There are many good hotels in the center of Seville and near to the conference site. Find some examples below. Please bear in mind that Seville is very popular in all seasons. Early booking is highly recommended."
+    subCards:
+      - links:
+          - {
+              link: "https://www.melia.com/es/hoteles/espana/sevilla/melia-sevilla?esl-k=sem-google%7Cng%7Cc675455636878%7Cmp%7Ckmelia%20sevilla%7Cp%7Ct%7Cdc%7Ca134023307012%7Cg14891490160&&gad_source=1&gclid=Cj0KCQjwjY64BhCaARIsAIfc7YYGe3dqunQKx0xbas46SgqkPQkOwoYqX60m5paQJID9KnFrtpx4Sx4aAkWHEALw_wcB&gclsrc=aw.ds",
+              imageTitle: "Meliá Sevilla ****",
+              imageUrl: "melia-sevilla.jpg",
+              imageText: "Just a 12 minute walk through the gorgeous María Luisa Park separates Meliá Sevilla from the venue. The hotel boasts ample rooms, an avant-garde design, an exterior pool and spectacular restaurants.",
+            }
+          - {
+              link: "https://www.hotelpasarela.com/en/",
+              imageTitle: "Pasarela Hotel ****",
+              imageUrl: "hotel-pasarela.jpg",
+              imageText: "Twelve minutes away from the venue, Hotel Pasarela is located in the green heart of the city, surrounded by the María Luisa Park and the Prado de San Sebastián, and opposite Plaza de España.",
+            }
+          - {
+              link: "https://legadoalcazarhotel.com",
+              imageTitle: "Legado Alcázar Hotel ****",
+              imageUrl: "hotel-legado-alcazar.jpg",
+              imageText: "Fourteen minutes away from the venue, Legado Alcázar Hotel is built and protected within the historical complex of the Reales Alcázares Palace. Its 18 rooms, all uniquely decorated, as well as its courtyards, make it a point of reference for travellers who will with no doubt enjoy the comfort and quality of its facilities and services.",
+            }
+          - {
+              link: "https://www.hotelalcazar.com/en/",
+              imageTitle: "Alcázar Hotel ***",
+              imageUrl: "hotel-alcazar.jpg",
+              imageText: "A twelve minute walk from the venue, Hotel Alcázar is located in one of the most emblematic districts of Seville, a starting point for experiencing the true essence of the city and for visiting key monuments such as the Seville Cathedral, Plaza de España, the Giralda, the Royal Alcázar or the University of Seville.",
+            }
+          - {
+              link: "https://ibarrahostel.es/",
+              imageTitle: "Ibarra Hostel **",
+              imageUrl: "ibarra-hostel.jpg",
+              imageText: "Fifteen minutes away from the venue, Ibarra Hostel is located in the center of Seville, in a completely restored typical andalusian house.",
+            }
+          - {
+              link: "https://onefamhostels.com/catedral-onefam-hostel-sevilla/",
+              imageTitle: "Onefam Hostel **",
+              imageUrl: "onefam-hostel.jpg",
+              imageText: "Eighteen minutes away from the venue, Onefam Hostel is a social hostel with amazing people, activities and the best atmosphere to make your visit to Seville unique. An unbeatable location, just one minute walking from the Cathedral and Alcazar.",
+            }
+  - title: "Cultural Offer"
+    description: "In Seville you can find a variety of cultural offer. Below we provide a small selection of events to be held during the week of the meeting and links to some of the main cultural spaces in the city. You can find more information in the <a href='https://www.turismosevilla.org/en/organize-your-trip/tourist-offices/seville-centre-tourist-office'>Seville official tourism website</a> or in cultural event guides as <a href='https://elegirhoy-com.translate.goog//?&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en'>El Giraldillo</a> or <a href='https://onsevilla.com/'>Guia del Ocio.</a>"
+    subCards:
+      - links:
+          - {
+              link: "https://www.catedraldesevilla.es/",
+              imageTitle: "Cathedral of Seville",
+              imageUrl: "catedral-sevilla.jpg",
+            }
+          - {
+              link: "https://www.google.es/maps/place/Plaza+de+Espa%C3%B1a,+41013+Sevilla/@37.3770029,-5.989754,17z/data=!3m1!4b1!4m6!3m5!1s0xd126c2115c814eb:0x5b13dff2128dab06!8m2!3d37.377021!4d-5.9870583!16s%2Fg%2F11bw43_nss?hl=es&entry=ttu&g_ep=EgoyMDI0MTAwNS4wIKXMDSoASAFQAw%3D%3D",
+              imageTitle: "Plaza de España",
+              imageUrl: "plaza-españa.jpg",
+              imageText: "",
+            }
+          - {
+              link: "https://museodelbaileflamenco.com/index.php/en/home/",
+              imageTitle: "Museo del Baile Flamenco",
+              imageUrl: "museo-baile-flamenco.jpg",
+              imageText: "",
+            }
+          - {
+              link: "https://www.museosdeandalucia.es/web/museodebellasartesdesevilla",
+              imageTitle: "Museo de Bellas Artes de Sevilla",
+              imageUrl: "museo-bellas-artes.jpg",
+              imageText: "",
+            }
+          - {
+              link: "https://www.museosdeandalucia.es/web/museoarqueologicodesevilla",
+              imageTitle: "Museo Arqueológico de Sevilla",
+              imageUrl: "museo-arqueologico.jpg",
+              imageText: "",
+            }
+          - {
+              link: "https://www.alcazarsevilla.org/en/",
+              imageTitle: "Alcázar of Seville",
+              imageUrl: "alcazar.jpg",
+              imageText: "",
+            }
 
 # Hackathon
 hackathonTitle: "Hackathon"
@@ -227,9 +315,21 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+  - {
+      title: "Android Wear",
+      image: "hackathon-0.png",
+      details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!",
+    }
+  - {
+      title: "Google Glass",
+      image: "hackathon-1.png",
+      details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience.",
+    }
+  - {
+      title: "Polymer",
+      image: "hackathon-2.png",
+      details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time.",
+    }
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
@@ -238,9 +338,13 @@ judgesTitle: "Judges"
 # Hackathon Prizes Block
 prizesTitle: "Prizes"
 prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+  - { title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360" }
+  - {
+      title: "1nd Place",
+      image: "prize-1.png",
+      info: "Nexus 5 with pre-installed Android L",
+    }
+  - { title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast" }
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
