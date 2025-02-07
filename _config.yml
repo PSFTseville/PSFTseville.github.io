@@ -120,14 +120,14 @@ mapMobileCenterCoordinates: "37.3764979, -5.9941233,878"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Valentín de Madariaga Foundation"
-venueFeatures: [
-    "The Valentín de Madariaga Foundation is born in 2003 in memory of D. Valentín Madariaga y Oya. It is located at the following address: Avda. de María Luisa s/n
-    41013 Sevilla",
+venueBigImage: "hotel_01.jpg"
+venueSmallImage1: "hotel_02.jpg"
+venueSmallImage2: "hotel_03.jpg"
+venueSmallImage3: "hotel_04.jpg"
+venueTitle: "Hotel Giralda Center"
+venueFeatures:
+  [
+    "The Hotel Giralda Center is located at the following address: Calle de Juan de Mata Carriazo 7, 41018 Sevilla",
   ]
 
 # Tweets Feed Block
@@ -229,7 +229,7 @@ directionDetailsCards:
     }
 directionDetailsWideCards:
   - title: "Venue"
-    description: "The Valentín de Madariaga Foundation is located at the following address: Avda. de María Luisa s/n 41013 Sevilla."
+    description: "The Hotel Giralda Center is located at the following address: Calle de Juan de Mata Carriazo 7, 41018 Sevilla."
   - title: "Accommodation"
     description: "There are many good hotels in the center of Seville and near to the conference site. Find some examples below. Please bear in mind that Seville is very popular in all seasons. Early booking is highly recommended."
     subCards:
