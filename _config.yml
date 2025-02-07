@@ -121,13 +121,13 @@ mapMobileCenterCoordinates: "37.3764979, -5.9941233,878"
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "hotel_01.jpg"
-venueSmallImage1: "hotel_02.jpg"
-venueSmallImage2: "hotel_03.jpg"
+venueSmallImage1: "giralda-conference.jpeg"
+venueSmallImage2: "giralda-lobby.jpeg"
 venueSmallImage3: "hotel_04.jpg"
 venueTitle: "Hotel Giralda Center"
-venueFeatures:
-  [
-    "The Hotel Giralda Center is located at the following address: Calle de Juan de Mata Carriazo 7, 41018 Sevilla",
+venueFeatures: [
+    "Hotel Giralda Center is an elegant, modern hotel on Avenida de Juan Mata Carriazo 7, 41018 Sevilla. Close to the city center,
+    it's surrounded by beautiful monuments and historical parks.",
   ]
 
 # Tweets Feed Block
