@@ -7198,3 +7198,43 @@ nav li a:hover {
         display: none;
     }
 }
+
+.program-table {
+    border-collapse: collapse;
+    color: #4b4b4b;
+}
+
+.st-session {
+    background-color: #d8bfd8;
+}
+.session{
+    background-color: 	#96DED1;
+}
+td, th {
+    font-family: sans-serif;
+    padding: 10px;
+}
+
+.table-header {
+    background-color: #546c83;
+    color: white;
+}
+
+.lunch, .coffee-break {
+    background-color: #89CFF0;
+}
+
+.smart {
+    
+    background-color: #a892ff;
+}
+
+.poster {
+    background-color: 	#b9ffff;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.legend {
+    margin-top: 40px;
+}
