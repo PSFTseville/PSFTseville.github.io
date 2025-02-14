@@ -7209,6 +7209,10 @@ nav li a:hover {
     color: #4b4b4b;
 }
 
+.program-table b {
+    font-weight: 800;
+}
+
 .st-session {
     background-color: #d8bfd8;
 }
