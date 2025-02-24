@@ -3610,7 +3610,7 @@ nav li a:hover {
 .icon-menu {
     width: 20px;
     height: 20px;
-    fill: #e6e6e6
+    fill: #e6e6e6;
 }
 
 .top-header.after-scroll .icon-menu {
@@ -3622,7 +3622,7 @@ nav li a:hover {
     -webkit-transform: translateY(20px);
     -ms-transform: translateY(20px);
     transform: translateY(20px);
-    right: 45px;
+    right: 30px;
     -webkit-transition: all 0.3s;
     transition: all 0.3s
 }
@@ -7200,7 +7200,7 @@ nav li a:hover {
 }
 
 .table-container {
-    display: flex;
+    display: block;
     justify-content: center;
 }
 
