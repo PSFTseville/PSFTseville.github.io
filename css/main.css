@@ -7205,6 +7205,10 @@ nav li a:hover {
 }
 
 .program-table {
+    max-width: 80%;
+}
+
+.program-table {
     border-collapse: collapse;
     color: #4b4b4b;
 }
