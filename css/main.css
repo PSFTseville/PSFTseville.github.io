@@ -7204,6 +7204,13 @@ nav li a:hover {
     justify-content: center;
 }
 
+.legend-container table {
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    width: 100px;
+}
+
 .program-table {
     border-collapse: collapse;
     color: #4b4b4b;
