@@ -1,203 +1,174 @@
-- 
-  id: 0
-  name: "Eleonora"
-  surname: "Viezzer"
-  title: "Spain"
-  thumbnailUrl: eleonora-viezzer.jpg
-  subTeam: true
-  social: 
-    - {name: "twitter", link: "https://x.com/eleonoraviezzer"}
-    - {name: "site", link: "https://investigacion.us.es/sisius/sis_showpub.php?idpers=23831"}
-- 
-  id: 1
+- id: 1
   name: "Manuel (Chair)"
   surname: "Garcia-Munoz"
   title: "Spain"
   thumbnailUrl: manuel-garcia.jpg
   team: true
-  social: 
-    - {name: "twitter", link: "https://x.com/PSFT__"}
-    - {name: "site", link: "https://investigacion.us.es/sisius/sis_showpub.php?idpers=19135"}
-- 
-  id: 2
+  social:
+    - { name: "twitter", link: "https://x.com/PSFT__" }
+    - {
+        name: "site",
+        link: "https://investigacion.us.es/sisius/sis_showpub.php?idpers=19135",
+      }
+- id: 2
   name: "William"
   surname: "Heidbrink"
   title: "United States of America"
   team: true
-  
-- 
-  id: 3
+
+- id: 3
   name: "Boris"
   surname: "Breizman"
   title: "United States of America"
   team: true
-- 
-  id: 4
+- id: 4
   name: "HuiShan"
   surname: "Cai"
   title: "China"
   team: true
-- 
-  id: 5
+- id: 5
   name: "Wei"
   surname: "Chen"
   title: "China"
   team: true
-- 
-  id: 6
+- id: 6
   name: "Ambrogio"
   surname: "Fasoli"
   title: "Switzerland"
   team: true
-- 
-  id: 7
+- id: 7
   name: "Eric"
   surname: "Fredrickson"
   title: "United States of America"
   team: true
-- 
-  id: 8
+- id: 8
   name: "Tünde"
   surname: "Fülöp"
   title: "Sweden"
   team: true
-- 
-  id: 9
+- id: 9
   name: "Yaroslav"
   surname: "Kolesnichenko"
   title: "Ukraine"
   team: true
-- 
-  id: 10
+- id: 10
   name: "Philipp"
   surname: "Lauber"
   title: "Germany"
   team: true
-- 
-  id: 11
+- id: 11
   name: "Simon"
   surname: "Pinches"
   title: "ITER Organization"
   team: true
-- 
-  id: 12
+- id: 12
   name: "Sergei"
   surname: "Sharapov"
   title: "United Kingdom"
   team: true
-- 
-  id: 13
+- id: 13
   name: "Kouji"
   surname: "Shinohara"
   title: "Japan"
   team: true
-- 
-  id: 14
+- id: 14
   name: "Yasushi"
   surname: "Todo"
   title: "Japan"
   team: true
-- 
-  id: 24
+- id: 24
   name: "Andreas"
   surname: "Bierwage"
   title: "Japan"
   team: true
-- 
-  id: 25
+- id: 25
   name: "Gyungjin"
   surname: "Choi"
   title: "Korea"
   team: true
-- 
-  id: 27
+- id: 27
   name: "Matthew"
   surname: "Hole"
   title: "Australia"
   team: true
-- 
-  id: 28
+- id: 28
   name: "Taina"
   surname: "Kurki-Suonio"
   title: "Finland"
   team: true
-- 
-  id: 29
+- id: 29
   name: "Mervi"
   surname: "Mantsinen"
   title: "Spain"
   team: true
-- 
-  id: 15
+- id: 15
   name: "Gregorio"
   surname: "Vlad"
   title: "Italy"
   team: true
-- 
-  id: 30
+- id: 30
   name: "Manuel"
   surname: "Garcia-Munoz"
   title: "Spain"
   subTeam: true
-- 
-  id: 31
+- id: 31
   name: "Joaquin"
   surname: "Galdon-Quiroga"
   title: "Spain"
   subTeam: true
-- 
-  id: 32
-  name: "Lucia"
-  surname: "Sanchis-Sanchez"
-  title: "Spain"
-  subTeam: true
-- 
-  id: 33
+- id: 32
   name: "Javier"
   surname: "Gonzalez-Martin"
   title: "Spain"
   subTeam: true
-- 
-  id: 34
+- id: 33
+  name: "Lucia"
+  surname: "Sanchis-Sanchez"
+  title: "Spain"
+  subTeam: true
+- id: 34
+  name: "Eleonora"
+  surname: "Viezzer"
+  title: "Spain"
+  thumbnailUrl: eleonora-viezzer.jpg
+  subTeam: true
+  social:
+    - { name: "twitter", link: "https://x.com/eleonoraviezzer" }
+    - {
+        name: "site",
+        link: "https://investigacion.us.es/sisius/sis_showpub.php?idpers=23831",
+      }
+- id: 35
   name: "Gloria"
   surname: "Jurado-Sanchez"
   title: "Spain (Admin)"
   subTeam: true
-- 
-  id: 35
+- id: 36
   name: "Estefania"
   surname: "Garcia-Gallardo"
   title: "Spain (IT)"
   subTeam: true
-- 
-  id: 16
+- id: 16
   title: "Alpha Particles Physics"
   topic: true
-- 
-  id: 17
+- id: 17
   title: "Transport of Energetic Particles"
   topic: true
-- 
-  id: 18
+- id: 18
   title: "Effects of Energetic Particles in Magnetic Confinement Fusion Devices"
   topic: true
-- 
-  id: 19
+- id: 19
   title: "Collective Phenomena"
   topic: true
-- 
-  id: 20
+- id: 20
   title: "Runway Electrons"
   topic: true
-- 
-  id: 21
+- id: 21
   title: "Diagnostics for Energetic Particles"
   topic: true
-- 
-  id: 22
+- id: 22
   title: "Control of Energetic Particle Confinement"
   topic: true
-- 
-  id: 23
+- id: 23
   title: "Multiscale Physics and Instabilities involving Energetic Particles in Burning Plasmas"
   topic: true
