@@ -12,5 +12,5 @@
         name: "IAEA",
         description: "International Atomic Energy Agency",
         link: "https://www.iaea.org/",
-        imageUrl: "International_Atomic_Energy_Agency_Logo.svg",
+        imageUrl: "International_Atomic_Energy_Agency_Logo.png",
       }
