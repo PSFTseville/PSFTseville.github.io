@@ -1,4 +1,16 @@
-- 
-  group: "Main organizer"
-  elements: 
-    - {name: "PSFT", description: "Plasma Science and Fusion Technology", link: "https://psft.eu", imageUrl: "PSFT-logo-white.svg"}
+- group: "Main organizer"
+  elements:
+    - {
+        name: "PSFT",
+        description: "Plasma Science and Fusion Technology",
+        link: "https://psft.eu",
+        imageUrl: "PSFT-logo-white.svg",
+      }
+- group: "Cofinanced by"
+  elements:
+    - {
+        name: "IAEA",
+        description: "International Atomic Energy Agency",
+        link: "https://www.iaea.org/",
+        imageUrl: "International_Atomic_Energy_Agency_Logo.svg",
+      }
